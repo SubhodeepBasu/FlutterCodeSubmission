@@ -1,0 +1,23 @@
+.leagueTable {
+  margin-left: 30%;
+}
+.leagueTable table {
+  border: 2px solid #b6f0c6;
+  width: 800px;
+  height: 100px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.leagueTable th {
+  border-bottom: 1px solid #b6f0c6;
+  color: white;
+  font-style: oblique;
+  border-right: 1px solid #b6f0c6;
+}
+
+.leagueTable td {
+  text-align: center;
+  color: white;
+  font-size: smaller;
+}

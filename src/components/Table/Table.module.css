@@ -1,0 +1,18 @@
+.teamSelect h3 {
+  font-size: large;
+  color: white;
+}
+
+.headerSelect h3 {
+  color: white;
+}
+
+.teamSelect :hover {
+  color: #b6f0c6;
+  cursor: pointer;
+}
+
+.headerSelect :hover {
+  color: #b6f0c6;
+  cursor: pointer;
+}

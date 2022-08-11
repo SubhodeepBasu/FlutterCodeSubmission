@@ -1,0 +1,13 @@
+.leagues {
+  width: 100%;
+}
+
+.leagues h2 {
+  color: #b6f0c6;
+}
+
+.leagues ul {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-left: 200px;
+}

@@ -1,0 +1,14 @@
+.seasons ul {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-left: 150px;
+  margin-bottom: 100px;
+}
+
+.seasonButton {
+  max-width: fit-content;
+}
+
+.leagueLogo {
+  margin-bottom: 50px;
+}

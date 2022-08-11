@@ -1,0 +1,6 @@
+.teamDetails {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-left: 150px;
+  margin-bottom: 100px;
+}
