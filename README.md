@@ -10,6 +10,9 @@ FlutterCodeSubmission
 `Node` version 16.2.0
 
 ## Available Scripts
+
+Run All Scripts in the root directory
+
 ### `npm install`
 Installs all the dependencies based on the package.json file
 ### `npm start`
